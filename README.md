@@ -1,16 +1,10 @@
-# tempcalc
+# TempApp
 
-A new Flutter project.
+CHECK YOUR TEMPERATURE! Are you someone still confused in this day and age about farenheit and celsuis? THEN I HAVE SOME NEWS FOR YOU. TempApp lets you change from farenheit to celsuis and vice versa! So what are you waiting for!? get your hot on??... Ok that last one wasnt good, but try it out
 
-## Getting Started
+This project in Flutter and Dart is to:
+- Test the usage of dart data types
+- Test dart widget types
+- Test animation types in Flutter
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project has the sole intention of nailing dart/flutter principles and concepts whilst experimenting with these concepts in their own way.
